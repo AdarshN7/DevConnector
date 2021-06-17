@@ -5,6 +5,6 @@ Devconnector App
 ## A project using MERN Stack Development
 
 - MongoDB
-- Express
+- Express js
 - Angular
 - Node js
