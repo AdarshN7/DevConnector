@@ -1,6 +1,6 @@
 # DevConnector
-Devconnector app
-## A project on MERN Stack Development
+Devconnector App
+## A project using MERN Stack Development
   * MongoDB
   * Express
   * Angular
